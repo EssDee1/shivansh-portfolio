@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import link from "./link.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -20,11 +21,22 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import aftereffects from "./tech/aftereffects.png";
+import canva from "./tech/canva.png";
+import photoshop from "./tech/photoshop.png";
+import premiere from "./tech/premiere.png";
+import nextjs from "./tech/nextjs.png";
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import sedsnp from "./company/sedsnp.png";
+import hamrogpt from "./company/hamrogpt.png";
+import mattrab from "./company/mattrab.png";
+import pie from "./company/pie.png";
+import sedssxc from "./company/sedssxc.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -37,6 +49,7 @@ export {
   mobile,
   web,
   github,
+  link,
   menu,
   close,
   css,
@@ -52,10 +65,20 @@ export {
   tailwind,
   typescript,
   threejs,
+  aftereffects,
+  canva,
+  photoshop,
+  premiere,
+  nextjs,
   meta,
   shopify,
   starbucks,
   tesla,
+  sedsnp,
+  hamrogpt,
+  mattrab,
+  sedssxc,
+  pie,
   carrent,
   jobit,
   tripguide,
