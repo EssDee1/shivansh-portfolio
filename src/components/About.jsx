@@ -8,6 +8,7 @@ import { fadeIn, textVariant } from '../utils/motion';
 
 import { SectionWrapper } from '../hoc';
 
+//this is a comment please ignore it
 
 
 const ServiceCard = ({ index, title, icon }) => {
